@@ -1,0 +1,10 @@
+{
+    "name": "Rust Hello World",
+    "image": "mcr.microsoft.com/vscode/devcontainers/rust:latest",
+    "customizations": {
+        "vscode": {
+            "settings": {},
+            "extensions": ["rust-analyzer"]
+        }
+    }
+}
